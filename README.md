@@ -3,13 +3,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/juanfariastk/Front-App-Reservas?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/juanfariastk/Front-App-Reservas?style=for-the-badge)
 
-## Estrutura:
-- Routes -> sessao - locais -  dash
-- Models -> Local - Reserva - Usuario
-- Controllers -> Locais - LocaisUsuarios (relacionameto) - Reservas - Sessao
-
-## Configs:
-- Padrão do Express com alterações com o Multer para upload de arquivos
+##ATENÇÂO:
+-> Rodar o back (localhost:4000) antes da aplicação!
 
 ##
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
