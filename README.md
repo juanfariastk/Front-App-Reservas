@@ -1,3 +1,23 @@
+# Backend App-Reservas (airTK)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/juanfariastk/Front-App-Reservas?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/juanfariastk/Front-App-Reservas?style=for-the-badge)
+
+## Estrutura:
+- Routes -> sessao - locais -  dash
+- Models -> Local - Reserva - Usuario
+- Controllers -> Locais - LocaisUsuarios (relacionameto) - Reservas - Sessao
+
+## Configs:
+- Padrão do Express com alterações com o Multer para upload de arquivos
+
+##
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+🌹
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
