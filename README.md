@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/juanfariastk/Front-App-Reservas?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/juanfariastk/Front-App-Reservas?style=for-the-badge)
 
-## ATENÇÂO:
+## Run:
 -> Rodar o back (localhost:4000) antes da aplicação!
 
 ##
